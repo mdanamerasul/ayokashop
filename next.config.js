@@ -23,6 +23,8 @@ module.exports = withPWA({
   },
   images: {
     domains: [
+      'api.sparkfilter.store',
+      'sparkfilter.store',
       'ayooka.com',
       'pickbazarlaravel.s3.ap-southeast-1.amazonaws.com',
       'lh3.googleusercontent.com',
